@@ -1,1 +1,0 @@
-print("Orite there guvna")

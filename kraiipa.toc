@@ -4,4 +4,4 @@
 ## Notes: Pointless addon to do things people have already solved
 ## Author: kraii
 
-entry.lua
+vendor_greys.lua

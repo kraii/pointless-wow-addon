@@ -1,0 +1,7 @@
+{
+    "diagnostics.globals": [
+        "CreateFrame",
+        "C_MerchantFrame",
+        "C_Item"
+    ]
+}
