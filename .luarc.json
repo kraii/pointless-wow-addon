@@ -2,6 +2,7 @@
     "diagnostics.globals": [
         "CreateFrame",
         "C_MerchantFrame",
-        "C_Item"
+        "C_Item",
+        "GossipFrame"
     ]
 }
