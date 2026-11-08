@@ -1,0 +1,7 @@
+## Interface: 16001
+## Version: 1.0.0
+## Title: kraii's pointless addon
+## Notes: Pointless addon to do things people have already solved
+## Author: kraii
+
+entry.lua
