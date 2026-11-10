@@ -3,6 +3,11 @@
         "CreateFrame",
         "C_MerchantFrame",
         "C_Item",
-        "GossipFrame"
+        "GossipFrame",
+        "Settings",
+        "SlashCmdList",
+        "InCombatLockdown",
+        "ShowUIPanel",
+        "QuickKeybindFrame"
     ]
 }
